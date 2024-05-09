@@ -42,6 +42,3 @@ Currently the package provides the `pso.py` module that defines two classes: `PS
    ```
 
 See [run_pso.py] for an example.
-
-## Tests
-## Profiling
