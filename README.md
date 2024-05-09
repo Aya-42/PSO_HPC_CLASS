@@ -1,4 +1,5 @@
 # Particle Swarm Optimization
+PSO is a global optimization technique inspired by the social behavior of bird flocking or fish schooling. Tt requires only the objective function and does not depend on the gradient or any differential form of the objective.  It also has very few hyperparameters.
 
   ## Installation
 ```
