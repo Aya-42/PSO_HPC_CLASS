@@ -41,4 +41,4 @@ Currently the package provides the `pso.py` module that defines two classes: `PS
        best_position, best_fitness, fitness_history = pso.optimize()= pso.optimize()
    ```
 
-See [run_pso.py](run.pso.py) for an example.
+See [run_pso.py](run_pso.py) for an example.
