@@ -140,7 +140,7 @@ class PSO:
                 particle.update_fitness(self.objective_function)
 
                 # Update the global best
-                if particle.best_fitne`ss < self.gbest_fitness:
+                if particle.best_fitness < self.gbest_fitness:
                     self.gbest_fitness = particle.best_fitness
                     self.gbest_position = np.copy(particle.best_position)
 
