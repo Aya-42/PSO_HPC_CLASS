@@ -1,14 +1,6 @@
 # Particle Swarm Optimization
 
-The Optimizer is a python package that provides a collection of powerful optimization algorithms, including MOPSO (Multi-Objective Particle Swarm Optimization). The primary purpose of this package is to facilitate running optimization tasks using user-defined Python functions as the optimization target.
-
-- [The Optimizer](#the-optimizer)
-  - [Installation](#installation)
-  - [Usage](#usage)
-    - [Objective Function](#objective-function)
-
-To use The Optimizer package, Clone this repository
-
+  ## Installation
 ```
 git clone https://github.com/Aya-42/PSO_HPC_CLASS
 ```
