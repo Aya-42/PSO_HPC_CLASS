@@ -23,7 +23,7 @@ Currently the package provides the `pso.py` module that defines two classes: `PS
        return np.sin(x[0]) + np.sin(x[1])
    ```
 
-3. Create the MOPSO object with the configuration of the algorithm
+3. Create the PSO object with the configuration of the algorithm
    
    ```python
    pso = PSO(
