@@ -13,7 +13,7 @@ Currently the package provides the `pso.py` module that defines two classes: `PS
 1. Import the required modules:
    
    ```python
-   from optimizer import PSO
+   from pso_optim import PSO
    ```
 
 2. Define the objective function to be optimized.
@@ -41,7 +41,7 @@ Currently the package provides the `pso.py` module that defines two classes: `PS
        best_position, best_fitness, fitness_history = pso.optimize()= pso.optimize()
    ```
 
-See [run_pso.py](example/run_mopso.py) for an example.
+See [run_pso.py] for an example.
 
 ## Tests
 ## Profiling
