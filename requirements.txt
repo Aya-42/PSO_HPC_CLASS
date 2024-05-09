@@ -1,0 +1,6 @@
+numpy
+multiprocessing
+typing
+time
+psutil
+matplotlib.pyplot
