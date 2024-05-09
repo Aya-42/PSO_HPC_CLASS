@@ -10,7 +10,7 @@ The Optimizer is a python package that provides a collection of powerful optimiz
 To use The Optimizer package, Clone this repository
 
 ```
-git clone 
+git clone https://github.com/Aya-42/PSO_HPC_CLASS
 ```
 
 ## Usage
