@@ -4,3 +4,5 @@ typing
 time
 psutil
 matplotlib.pyplot
+FLAKE8
+unittest
